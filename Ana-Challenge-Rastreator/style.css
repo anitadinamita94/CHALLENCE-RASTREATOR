@@ -1,0 +1,101 @@
+/*TÍTULO PRINCIPAL*/
+h1 {
+    padding-top: 25px!important;
+    margin-left:150px;
+    margin-right: 150px;
+    text-align: center;
+    font-size: 18px!important;
+}
+
+/*BLOQUE VOLKSWAGEN border-left-style: dotted;*/
+#bloque-coche{
+    padding-top: 60px!important;
+    margin-left:40px;
+    margin-right:40px;
+}
+#bloque-coche .logo{
+    width: 85px;
+    height: 85px;
+    margin-top: 25px;
+    margin-left:480px;
+}
+#bloque-coche .bloque{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 380px;
+    border-bottom-right-radius: 12px;
+    border-top-right-radius: 12px;
+    background-image: -webkit-radial-gradient(-26px 50%, circle closest-corner, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0) 75px, #ECEAEA 66px, #ECEAEA 67px);
+    background-image: -ms-radial-gradient(-26px 50%, circle closest-corner, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0) 75px, #ECEAEA 66px, #ECEAEA 67px);
+    background-image: -o-radial-gradient(-26px 50%, circle closest-corner, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0) 75px, #ECEAEA 66px, #ECEAEA 67px); 
+    background-image: radial-gradient(-26px 50%, circle closest-corner, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0) 75px, #ECEAEA 66px, #ECEAEA 67px);
+}
+
+/*BLOQUE SEGUROS FINANCIACION Y TASACION*/
+#bloque-seguro-financiacion-tasacion{
+    padding-top: 60px!important;
+
+}
+
+#bloque-seguro-financiacion-tasacion .boton{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color: #74DF00;
+    border-color: #74DF00;
+    border-radius: 4px 4px 4px 4px;
+    color: white;
+    font-weight: bold!important;
+    text-align: center!important;
+    margin-left:350px;
+    
+}
+
+/*SUBTITULOS PÁRRAFOS ICONOS Y ENLACES*/
+h2{
+    font-size: 16px!important;
+    font-weight: bold!important;
+}
+
+p{
+    font-size: 12px;
+    color: #8E8E8E;
+}
+
+a{
+    font-size: 12px;   
+}
+
+.separar{
+    margin-left: 70px;
+}
+
+.iconito-azul{
+    color: #0d6efd;
+}
+
+/*SEPARADORES*/
+hr{
+    
+    margin: auto!important;
+    width: 1050px;
+    color: #ECEAEA;
+    
+}
+
+/*FOOTER PERRO */
+.perro{
+    padding-top: 60px!important;
+    
+}
+
+/*IMAGENES SLIDERS */
+
+.tamaño{
+    width: 300px;
+    height: 100px;
+    
+}
+
+
